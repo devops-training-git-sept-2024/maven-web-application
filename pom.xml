@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://35.179.135.247:9980</sonar.host.url>
-		<sonar.login>squ_c8cf3876a41ffca6383ea76567bf2de027f883ae</sonar.login>
+		<sonar.host.url>http://3.8.160.191:9980/</sonar.host.url>
+		<sonar.login>squ_ffce79f880a27cc85edbce0ad01e216c6249a953</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.178.33.100:9980/mithuntechnologies/repository/canarabank-releases/</url>
+	      <url>http://3.10.23.129:9980/mithuntechnologies/repository/canarabank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.178.33.100:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <url>http://3.10.23.129:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
